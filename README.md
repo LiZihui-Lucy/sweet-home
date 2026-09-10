@@ -20,6 +20,8 @@ That is why I am here.
 
 ## References
 
-- Beattie, D. (n.d.). *The Art of Code* [Video]. YouTube. [https://www.youtube.com/watch?v=6avJHaC3C2U](https://www.youtube.com/watch?v=6avJHaC3C2U)
-- Caetano, I., Santos, L., & Leitão, A. (2020). Computational design in architecture: Defining parametric, generative, and algorithmic design. *Frontiers of Architectural Research, 9*(2), 287–300. [https://doi.org/10.1016/j.foar.2019.12.008](https://doi.org/10.1016/j.foar.2019.12.008)
-- Lovelace, A. A. (1843). Note G. In L. F. Menabrea, *Sketch of the Analytical Engine Invented by Charles Babbage*. [https://www.fourmilab.ch/babbage/sketch.html](https://www.fourmilab.ch/babbage/sketch.html)
+Beattie, D. (n.d.). The art of code [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
+
+Caetano, I., Santos, L., & Leitão, A. (2020). Computational design in architecture: Defining parametric, generative, and algorithmic design. Frontiers of Architectural Research, 9(2), 287–300. https://doi.org/10.1016/j.foar.2019.12.008
+
+Lovelace, A. A. (1843). Note G. In L. F. Menabrea, Sketch of the analytical engine invented by Charles Babbage. https://www.fourmilab.ch/babbage/sketch.html
