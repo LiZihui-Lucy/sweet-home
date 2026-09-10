@@ -1,26 +1,85 @@
-# Why are we here?
-My Personal Background
-        ↓
-Architecture and Parametric Design
-        ↓
-First encounter with programming
-        ↓
-Programming as a creative medium
-        ↓
-My Modular Installation Project
-        ↓
-Rules + Parameters + Randomness
-        ↓
-Multiple Possible Outcomes
-        ↓
-A Shift in Design Thinking：Designing Systems Instead of Final Forms
-        ↓
-The Same Logic in Game Design
-        ↓
-Rules + Player Interaction
-        ↓
-Emergent Gameplay and Experiences
-        ↓
-WHY ARE WE HERE?
-        ↓
-Programming teaches me a new way of thinking about design.
+                         WHY ARE WE HERE?
+                                │
+                                ▼
+          Why should a designer learn programming?
+                                │
+                                ▼
+              My answer: Programming changed
+                how I understand "design"
+                                │
+             ┌──────────────────┴──────────────────┐
+             ▼                                     ▼
+      ARCHITECTURE                           PARAMETRIC DESIGN
+             │                                     │
+             ▼                                     ▼
+     My undergraduate                         Grasshopper
+       background                                 │
+                                                   ▼
+                                      Visual programming as
+                                        a creative medium
+                                                   │
+                                                   ▼
+                                    ┌────────────────────────┐
+                                    │ Modular Installation   │
+                                    └────────────────────────┘
+                                                   │
+                              ┌────────────────────┼──────────────────┐
+                              ▼                    ▼                  ▼
+                          Parameters           Randomness         Relationships
+                              │                    │                  │
+                              └────────────────────┼──────────────────┘
+                                                   ▼
+                                      Multiple possible outcomes
+                                                   │
+                                                   ▼
+                                      Unexpected complexity
+                                                   │
+                                                   ▼
+                              ┌─────────────────────────────────┐
+                              │ DYLAN BEATTIE                   │
+                              │ The Art of Code                 │
+                              │ Simple rules → complex results  │
+                              └─────────────────────────────────┘
+                                                   │
+                                                   ▼
+                                  Programming as a creative
+                                         / generative medium
+                                                   │
+                                                   ▼
+                              ┌─────────────────────────────────┐
+                              │ ADA LOVELACE — NOTE G           │
+                              │ Human defines operations/rules  │
+                              │ Machine executes them           │
+                              └─────────────────────────────────┘
+                                                   │
+                                                   ▼
+                                   Designing rules is also
+                                        a form of authorship
+                                                   │
+                                                   ▼
+                              ┌─────────────────────────────────┐
+                              │ FROM FORM → SYSTEM              │
+                              │ From outcome → conditions       │
+                              └─────────────────────────────────┘
+                                                   │
+                                                   ▼
+                                      GAME DESIGN
+                                                   │
+                                                   ▼
+                              Narrative + Art + Sound + Rules
+                                                   │
+                                                   ▼
+                                       Rules interact
+                                                   │
+                                                   ▼
+                                       Emergent gameplay
+                                                   │
+                                                   ▼
+                              Simple rules → complex experiences
+                                                   │
+                                                   ▼
+                              ┌─────────────────────────────────┐
+                              │ FINAL ARGUMENT                   │
+                              │ Programming taught me to design  │
+                              │ systems, not only outcomes.      │
+                              └─────────────────────────────────┘
